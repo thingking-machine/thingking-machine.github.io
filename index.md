@@ -2,7 +2,7 @@
 layout: home
 title: Thingking Machine
 ---
-# Github.io template. Index
+# Thingking Machine
 <pre>
   A machine is a thing. Things can not think. ...but some of them can thingk!
 </pre>
