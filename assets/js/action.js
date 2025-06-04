@@ -311,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     // 13. Listen for storage changes to platoText (e.g., from extension)
     window.addEventListener('storage', function(event) {
-        if (event.key === 'platoText') {
+        if (event.key === 'multilogue') {
             // console.log('Page Script: localStorage.platoText changed, calling updateDisplayState.');
             // Ensure updateDisplayState is accessible here or call the relevant parts directly
             if (typeof updateDisplayState === 'function') {
@@ -319,7 +319,7 @@ document.addEventListener('DOMContentLoaded', () => {
             } else {
                 console.warn('Page Script: updateDisplayState function not found globally for storage event.');
                 // Fallback or direct DOM manipulation if needed, though updateDisplayState is preferred
-                const currentPlatoText = localStorage.getItem('platoText');
+                const currentPlatoText = localStorage.getItem('multilogue');
                 if (currentPlatoText && currentPlatoText.trim() !== '') {
                     try {
                         dialogueWrapper.innerHTML = platoTextToPlatoHtml(currentPlatoText); // Assumes platoTextToPlatoHtml is global
