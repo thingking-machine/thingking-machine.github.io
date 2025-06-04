@@ -91,6 +91,8 @@ document.addEventListener('DOMContentLoaded', () => {
             dialogueWrapper.style.display = 'block';
             textarea.style.display = 'none';
             filePickerContainer.style.display = 'none';
+            // Scroll to the bottom of the dialogue content after it's updated and shown
+            dialogueWrapper.scrollIntoView({ behavior: 'smooth', block: 'end' });
         } else {
             // No valid content, show file picker
             dialogueWrapper.style.display = 'none';
