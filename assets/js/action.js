@@ -25,6 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 1. Create a wrapper for the dialogue content (will be populated by updateDisplayState)
     const dialogueWrapper = document.createElement('div');
     dialogueWrapper.id = 'dialogue-content-wrapper';
+    dialogueWrapper.style.paddingBottom = '20px';
 
     // 2. Create the textarea for editing
     const textarea = document.createElement('textarea');
