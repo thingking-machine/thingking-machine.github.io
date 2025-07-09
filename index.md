@@ -10,10 +10,25 @@ title: Thingking Machine
 
 [Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
 
+[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+
 [Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+
+[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+
+[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+
+[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
 
 [Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
 
+[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+
 [Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
 
-[Multilogue](multilogue)
+[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+
+[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+
+
+Thingking-Machine is just one of participants of the [Multilogue](multilogue)
