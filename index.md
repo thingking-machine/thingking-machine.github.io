@@ -18,7 +18,7 @@ title: Thingking Machine
 
 [Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grokf/)
+[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
 
 [Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
 
