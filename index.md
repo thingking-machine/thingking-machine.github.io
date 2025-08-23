@@ -20,6 +20,8 @@ title: Thingking Machine
 
 [Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
 
+[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+
 [Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
 
 [Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
