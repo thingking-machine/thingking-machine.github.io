@@ -14,6 +14,8 @@ title: Thingking Machine
 
 [Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
 
+[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+
 [Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
 
 [Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
