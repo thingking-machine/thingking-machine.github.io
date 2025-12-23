@@ -12,6 +12,8 @@ title: Thingking Machine
 
 [Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
 
+[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+
 [Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
 
 [Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
@@ -26,6 +28,8 @@ title: Thingking Machine
 
 [Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
 
+[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+
 [Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
 
 [Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
@@ -33,6 +37,8 @@ title: Thingking Machine
 [Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
 
 [Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+
+[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
 
 
 Thingking-Machine is just one of participants of the [Multilogue](multilogue)
