@@ -14,6 +14,8 @@ title: Thingking Machine
 
 [Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
 
+[Thingking-Machine (gemma)](https://thingking-machine.github.io/gemma/)
+
 [Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
 
 [Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
