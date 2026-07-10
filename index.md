@@ -8,7 +8,7 @@ title: Thingking Machine
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/metai/)
+[Thingking-Machine (metai)](https://thingking-machine.github.io/metai/)
 
 [Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
 
